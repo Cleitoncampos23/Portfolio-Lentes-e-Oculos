@@ -52,7 +52,9 @@ nav a.btn_destaque {
     border-radius: 3px;
     font-size: 14px;
     text-decoration: none;
+    cursor: pointer;
 }
+
 .sec01 {
     height: 640px;
     color: white;
